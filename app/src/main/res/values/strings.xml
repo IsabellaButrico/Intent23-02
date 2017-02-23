@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exemplo_de_intent</string>
+    <string name="abrir_outra_janela">abrir_outra_janela</string>
+</resources>
